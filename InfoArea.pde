@@ -13,3 +13,4 @@ class InfoArea extends AbstractArea {
       text("Right turn ->", (posX+yoko-1.7)*SQUARESIZE, (posY+0.5)*SQUARESIZE);
     }
   }
+}
